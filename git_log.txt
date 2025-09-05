@@ -1,0 +1,45 @@
+commit 7ddef97055f421c19714d7342ccd30a9a40478fd
+Merge: 2506770 9d69b39
+Author: Steve Gonzalez <SteveAlbert240@gmail.com>
+Date:   Thu Sep 4 18:19:30 2025 -0700
+
+    Resolved merge conflict between main and index-fix
+
+commit 9d69b395fe921773e5b4079f155e901451247aa0
+Author: Steve Gonzalez <SteveAlbert240@gmail.com>
+Date:   Thu Sep 4 18:12:35 2025 -0700
+
+    index-fix: added favorite video game
+
+commit 25067705b7e08d28fcaeeb5012ef610aff1fc56f
+Author: Steve Gonzalez <SteveAlbert240@gmail.com>
+Date:   Thu Sep 4 17:05:22 2025 -0700
+
+    main: added favorite food div
+
+commit d1038c5c394fe43e7f928c6ec81547dd3403342a
+Author: SteveGonzalez <70531978+SteveGonzalez@users.noreply.github.com>
+Date:   Thu Sep 4 16:47:05 2025 -0700
+
+    Create README.md
+
+commit 28897b8a841a56abd42c529eeb1f9a2232890e21
+Merge: 1d2bfc0 a74d2c7
+Author: SteveGonzalez <70531978+SteveGonzalez@users.noreply.github.com>
+Date:   Thu Sep 4 16:38:14 2025 -0700
+
+    Merge pull request #1 from SteveGonzalez/info-fill
+    
+    Filled in blanks in index.html
+
+commit a74d2c721c9978ba7d67af98eea35cfff0580fac
+Author: Steve Gonzalez <SteveAlbert240@gmail.com>
+Date:   Thu Sep 4 16:19:32 2025 -0700
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
